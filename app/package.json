@@ -1,0 +1,20 @@
+{
+  "name": "flowbot-app",
+  "version": "0.0.1",
+  "description": "Flowbot/Hyperledger Sample Application",
+  "main": "invoke.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "fabric-ca-client": "^1.0.2",
+    "fabric-client": "^1.0.2",
+    "grpc": "^1.6.0"
+  },
+  "author": "Jollen Chen",
+  "license": "Apache-2.0",
+  "keywords": [
+    "Hyperledger",
+    "Fabric"
+  ]
+}
