@@ -1,7 +1,7 @@
 
-# flowbot-composer
+# fabric-composer-basic
 
-The proof-of-concept project for [Flowbot Blockchain Architecture], please read [ICO whitepaper](https://github.com/sellside/ico-whitepaper/issues/1) for more information.
+Hyperledger Fabric quick start.
 
 # Getting Started
 
@@ -83,12 +83,12 @@ $ sudo su
 
 # Usage
 
-## Download Flowbot-Composer
+## Download
 
 ```
 $ sudo apt-get install make
-$ git clone https://github.com/jollen/flowbot-composer.git
-$ cd flowbot-composer/
+$ git clone https://github.com/jollen/fabric-composer-basic.git
+$ cd fabric-composer-basic
 ```
 
 ## Setup Docker Images
